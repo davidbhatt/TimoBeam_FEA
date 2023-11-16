@@ -1,0 +1,4 @@
+
+The code implements the finite element analysis in modules to generate the stiffness matrices
+Then generates analytical expressions for the stiffness matrices
+This also include a function to calculate the natural frequencies of beam for both Euler and Timoshenko theory using eigenvalue analysis
